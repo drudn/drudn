@@ -11,4 +11,4 @@ Independent technical project exploring scientific information workflows and app
 - Building practical project pages and technical profiles
 
 ## Contact
-- Website: drudn.github.io
+- Website: [drudn.github.io](https://drudn.github.io)
