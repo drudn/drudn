@@ -1,16 +1,14 @@
-## Hi there 👋
+# Hi, I'm Dan
 
-<!--
-**drudn/drudn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Independent technical project exploring scientific information workflows and applied R&D opportunities.
 
-Here are some ideas to get you started:
+## About me
+- Background in physics, programming, and AI
+- Interested in scientific workflows, research tools, and applied technical systems
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Current focus
+- Exploring research, technical, pilot, and partnership pathways
+- Building practical project pages and technical profiles
+
+## Contact
+- Website: drudn.github.io
