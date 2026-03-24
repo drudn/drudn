@@ -1,5 +1,6 @@
-# Hi, I'm Dan
+## Dan Rudnicki
 
+Full-stack web developer (GIS (geographic information systems) + data). Interested in practical tools for scientific information workflows—screening/downselection, reproducibility/provenance, and lightweight automation.
 Independent technical project exploring scientific information workflows and applied R&D opportunities.
 
 ## About me
