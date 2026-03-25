@@ -13,5 +13,4 @@ Full-stack web developer (GIS (geographic information systems) + data). Interest
 ## Contact
 - Website: [drudn.github.io](https://drudn.github.io)
 - LinkedIn: [LinkedIn](https://www.linkedin.com/in/daniel-rudnicki-49a938135)
-- Email: [Email me](mailto:dan.rudnicki@outlook.com.com)
 
