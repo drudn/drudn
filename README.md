@@ -1,7 +1,6 @@
 ## Dan Rudnicki
 
 Full-stack web developer (GIS (geographic information systems) + data). Interested in practical tools for scientific information workflows—screening/downselection, reproducibility/provenance, and lightweight automation.
-Independent technical project exploring scientific information workflows and applied R&D opportunities.
 
 ## About me
 - Background in physics, programming, and AI
@@ -13,3 +12,7 @@ Independent technical project exploring scientific information workflows and app
 
 ## Contact
 - Website: [drudn.github.io](https://drudn.github.io)
+- LinkedIn: [LinkedIn](https://www.linkedin.com/in/www.linkedin.com/in/
+daniel-rudnicki-49a938135)
+- Email: [Email me](mailto:dan.rudnicki@outlook.com.com)
+
